@@ -1,2 +1,5 @@
-Nesse projeto tive o meu primeiro contato com java.
-onde criei a classe "main"
+## Primeira aplicação em java
+
+Comecei meu estudo em java.
+
+Onde eu crio linhas de código pela primeira vez, com o famos "Hello Wolrd".
